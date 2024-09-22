@@ -12,6 +12,7 @@ https://download.pytorch.org/libtorch/{cuda_version}/libtorch-win-shared-with-de
 ## Environment
 Platform: Windows 10  
 Tool: MSVC 2022 17.8.5  
+Pytohn version: 3.10.11  
   
 ### Configure Libtorch in MSVC  
 1. Install libtorch. (use above link.)
