@@ -5,5 +5,5 @@ Download libtorch
 Debug:  
 https://download.pytorch.org/libtorch/{cuda_version}/libtorch-win-shared-with-deps-debug-{pytorch_version}%2B{cuda_version}.zip  
 
-Release:
+Release:  
 https://download.pytorch.org/libtorch/{cuda_version}/libtorch-win-shared-with-deps-{pytorch_version}%2B{cuda_version}.zip
